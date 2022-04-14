@@ -18,14 +18,5 @@ It applies to your startup, too.
 Bootstrapping your startup means growing your business with little or no venture capital or outside investment. It means relying on your own savings and revenue to operate and expand.</description>
     </item>
     
-    <item>
-      <title>Hugo is for lovers</title>
-      <link>https://mkosut.github.io/startr/blog/2015/08/03/hugo-is-for-lovers/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>https://mkosut.github.io/startr/blog/2015/08/03/hugo-is-for-lovers/</guid>
-      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;https://mkosut.github.io/startr/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
-    </item>
-    
   </channel>
 </rss>
