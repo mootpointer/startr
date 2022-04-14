@@ -17,13 +17,12 @@
     </item>
     
     <item>
-      <title>Bootstrapping vs. Venture Capital Funding: Which Path Will You Choose?</title>
+      <title>Working Hard vs. Addicted to Work</title>
       <link>https://mkosut.github.io/startr/blog/2021/08/01/categories-post/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
       <guid>https://mkosut.github.io/startr/blog/2021/08/01/categories-post/</guid>
-      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
+      <description>https://www.techstars.com/the-line/advice/working-hard-vs-addicted-to-work</description>
     </item>
     
     <item>
@@ -38,13 +37,14 @@ Bootstrapping your startup means growing your business with little or no venture
     </item>
     
     <item>
-      <title>Go is for lovers</title>
+      <title>9 Essential Questions (You Might Not Have Thought to Ask) When Hiring Your Company’s First Compliance Leader</title>
       <link>https://mkosut.github.io/startr/blog/2015/09/17/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
       <guid>https://mkosut.github.io/startr/blog/2015/09/17/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <description>Congratulations! Your company is well on its way to establishing Compliance maturity. So now it’s time for you, the security leader—who’s actually a security/compliance/jack of all trades leader—to catch a break.
+It’s finally time to hire a Compliance leader!
+But where should you start? What are the most critical questions to ask in the interview process? In this post, I’ll direct you toward the most important areas to address when hiring for your first security Compliance leader position.</description>
     </item>
     
     <item>
