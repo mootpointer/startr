@@ -1,0 +1,21 @@
+name: Create Content on Selection
+
+on:
+  # Triggers the workflow when the issue is labelled "selected".
+  issues:
+    types:
+      - labelled
+env: 
+  issue_body: github.event.issue.body
+jobs:
+  create-pr:
+    if: contains(github.event.issue.labels.*.name, 'selected')
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      - name: Run a one-line script
+        run: echo "$ISSUE_BODY"
