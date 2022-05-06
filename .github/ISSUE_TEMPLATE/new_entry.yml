@@ -24,8 +24,8 @@ body:
     attributes:
       label: URL
       description: The link to the resource you're suggesting. Do not use shortened URLs.
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     id: description
     attributes:
