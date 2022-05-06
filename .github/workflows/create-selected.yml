@@ -6,7 +6,7 @@ on:
     types:
       - labeled
 env: 
-  issue_body: github.event.issue.body
+  issue_body: ${{ github.event.issue }}
 jobs:
   create-pr:
     if: contains(github.event.issue.labels.*.name, 'selected')
