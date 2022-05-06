@@ -13,28 +13,30 @@ body:
 
         We aim to respond to all suggestions within 72 hours.
   - type: input
+    id: title
     attributes:
       label: Title
       description: The title of the resource you are suggesting. Where possible, this should be the article, book, or page title, though sometimes it may be worth changing.
-      id: title
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
+    id: url
     attributes:
       label: URL
       description: The link to the resource you're suggesting. Do not use shortened URLs.
-      id: url
       validations:
         required: true
   - type: textarea
+    id: description
     attributes:
       label: Description
       description: 1-2 sentences describing the resource.
-      id: description
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
+    id: value
     attributes:
       label: Why is it valuable?
-      id: value
       description: Tell us why this resource needs to be included in Founder Library. What unique value does it bring to founders, and what problems does it help founders solve?
+    validations:
+      required: true
