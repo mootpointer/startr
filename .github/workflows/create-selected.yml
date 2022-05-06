@@ -4,7 +4,7 @@ on:
   # Triggers the workflow when the issue is labelled "selected".
   issues:
     types:
-      - labelled
+      - labeled
 env: 
   issue_body: github.event.issue.body
 jobs:
