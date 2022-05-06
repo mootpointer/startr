@@ -1,0 +1,40 @@
+name: New Library Entry
+description: Suggest a resource to be added to Founder Library
+title: "[Suggestion]: "
+labels: ["suggestion", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your interest in adding to Founder Library's collection.
+
+        Please make sure you've read the [Founder Library editorial policy](#)
+        before submitting your suggestion.
+
+        We aim to respond to all suggestions within 72 hours.
+  - type: input
+    attributes:
+      label: Title
+      description: The title of the resource you are suggesting. Where possible, this should be the article, book, or page title, though sometimes it may be worth changing.
+      value: title
+      validations:
+        required: true
+  - type: input
+    attributes:
+      label: URL
+      description: The link to the resource you're suggesting. Do not use shortened URLs.
+      value: url
+      validations:
+        required: true
+  - type: textarea
+    attributes:
+      label: Description
+      description: 1-2 sentences describing the resource.
+      value: description
+      validations:
+        required: true
+  - type: textarea
+    attributes:
+      label: Why is it valuable?
+      value: value
+      description: Tell us why this resource needs to be included in Founder Library. What unique value does it bring to founders, and what problems does it help founders solve?
